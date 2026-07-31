@@ -86,7 +86,7 @@
 
 ## 📫 Contact
 
-* 📧 **Email:** [05sopajuthaisong@gmail.com]
+* 📧 **Email:** 05sopajuthaisong@gmail.com
 
 ---
 
