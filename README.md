@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋 I'm Nattapong Juthaisong
 
-<!--
-**Kig05/Kig05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th Year Information Technology Student at Maejo University
 
-Here are some ideas to get you started:
+💻 Interested in **Full-Stack Web Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- Next.js
+- React
+- Tailwind CSS
+- Java
+- Spring Boot
+- Node.js
+- MySQL
+- PostgreSQL
+- Firebase
+
+## 📌 Featured Projects
+
+### 🚨 Disaster Relief Platform
+
+Web Application for disaster coordination and rescue management using **Next.js + Firebase**.
+
+### 🎮 TermGemsPlus
+
+Online game top-up website developed with **Java Spring Boot + MySQL + JSP**.
+
+## 📫 Contact
+
+- Email: your-email@gmail.com
+- GitHub: https://github.com/nattapong-juthaisong
